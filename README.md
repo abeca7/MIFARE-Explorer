@@ -2,7 +2,7 @@
 
 This project is a software tool for identifying, reading, and performing advanced operations on MIFARE RFID cards. The application includes a graphical user interface (GUI) to facilitate user interaction and manage functionalities such as authentication, key management, and card data exploration.
 
-**Academic Purpose**: This project has been developed for academic purposes. Full details of the work can be found at [link to the project].
+**Academic Purpose**: This project has been developed for academic purposes. Full details of the work can be found at [Thesis](./Thesis/).
 
 ---
 
